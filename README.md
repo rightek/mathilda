@@ -1,6 +1,8 @@
 Docs coming soon ... _in the meantime file an issue if you have any question_
 
-The idea of all class names (_well more and less_) are picking the first letter of each word of css proprty, e.g `background-size`, and css value, e.g `cover`, for example:
+---
+
+The idea of all class names (_well more and less_) are picking the first letter of each word of css proprty, e.g `background-size`, and css value, e.g `cover` separated by dash, for example:
 - `background-size: cover` becomes `bs-c`
 - `background-image: none` becomes `bi-n`
 
