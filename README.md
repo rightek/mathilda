@@ -6,4 +6,4 @@ The idea of all class names (_well more and less_) are picking the first letter 
 - `background-size: cover` becomes `bs-c`
 - `background-image: none` becomes `bi-n`
 
-Of course there are some exceptions, for example we have `background-size: cover` and `background-size: contain`, based on above guideline the class name for both is `bs-c` which is not acceptable, so I apply the above guideline to `background-size: cover`, because it's more common, and use the full value name for less common one, so `background-size: contain` becomes `bs-contain`. there are some other exceptions which will be covered in the documentation.
+Of course there are some exceptions, for example we have `background-size: cover` and `background-size: contain`, based on above guideline the class name for both will be `bs-c` which is not acceptable, so I apply the above guideline to `background-size: cover`, because it's more common, and use the full value name for less common one, so `background-size: contain` becomes `bs-contain`. there are some other exceptions which will be covered in the documentation.
